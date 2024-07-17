@@ -1,0 +1,1 @@
+Maquette responsive réalisée en cours.
